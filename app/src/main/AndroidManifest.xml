@@ -22,7 +22,7 @@
         tools:targetApi="31">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyByXZLS9dRljdqxmXnfzJpSqZYy1QLVop0"/>
+            android:value="hmm google maps api key"/>
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
